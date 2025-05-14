@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    background: url('../media/image1.jpg') no-repeat center center fixed;
+    background-size: cover;
+    text-align: center;
+    padding: 20px;
+}
+
+.vedio {
+    width: 200;
+    height: 200;
+    margin-left: 100px;
+    padding: 5px;
+    border: dashed rgb(40, 45, 40) 5px;
+    padding-right: 0;
+    display: inline-block;
+}
+. tital{
+    display: flex;
+    justify-content: center;
+}
